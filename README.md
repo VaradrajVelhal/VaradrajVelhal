@@ -23,13 +23,5 @@ I enjoy building web applications, solving algorithmic problems, and continuousl
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
----
-
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=VaradrajVelhal&show_icons=true&theme=dark" />
-</p>
-
----
 
 ⭐ This profile reflects my academic work, self-learning projects, and ongoing journey in software development.
