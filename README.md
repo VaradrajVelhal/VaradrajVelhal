@@ -1,27 +1,42 @@
 # Hi there, I'm Varadraj Velhal! 👋
 
-### 🎓 MCA Student at PCCOE | Java & Web Development Enthusiast
+### 🎓 MCA Student at PCCOE | Backend-Focused Full Stack Developer
 
-I am a passionate software developer currently pursuing my Master of Computer Applications (MCA).  
-I enjoy building web applications, solving algorithmic problems, and continuously improving my technical skills.
+I am a software developer currently pursuing MCA, with a strong focus on backend development and building real-world web applications.  
+I enjoy designing scalable systems, working with APIs, and solving problems using Java and data structures.
 
-- 🔭 Currently working on: **Full Stack Web Development** & **Personal Projects**
-- 🌱 Currently learning: **Advanced Java**, **React.js**, **Data Structures & Algorithms**
-- 👨‍💻 GitHub Profile: https://github.com/VaradrajVelhal
-- 📫 Reach me at: **varadrajvelhal1@gmail.com** | https://www.linkedin.com/in/varadrajvelhal
+- 🔭 Currently working on: Improving and scaling my full-stack projects
+- 🌱 Currently learning: Advanced Backend Development, System Design basics, DSA (Java)
+- 👨‍💻 GitHub: https://github.com/VaradrajVelhal
+- 📫 Contact: varadrajvelhal1@gmail.com | https://www.linkedin.com/in/varadrajvelhal
 
 ---
 
-### 🛠️ Languages & Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+### 🚀 What I’m Good At
+- Building REST APIs using Django REST Framework
+- Authentication & Authorization (JWT, RBAC)
+- Database design and SQL (PostgreSQL)
+- Debugging and handling real-world edge cases
+- Writing clean and maintainable backend logic
 
+---
 
-⭐ This profile reflects my academic work, self-learning projects, and ongoing journey in software development.
+### 🧠 Tech Stack
+Java | Python | Django | Django REST Framework | React.js | PostgreSQL | HTML | CSS | Git
+
+---
+
+### 📌 Projects
+
+- **LifeLink (Blood Request Platform)**  
+  Built a system connecting hospitals and donors with secure authentication, request handling, and real-time updates.
+
+- **HireFlow (Job Aggregator System)**  
+  Developed backend system with cron jobs, duplicate filtering, and role-based access control.
+
+- **Rural Scheme Eligibility Engine**  
+  Developed a system that determines user eligibility for government schemes based on dynamic criteria such as income, location, and category. Focused on rule-based filtering, backend logic optimization, and scalable API design.
+
+---
+
+⭐ This profile represents my journey of becoming a strong backend engineer and continuously improving through real-world projects.
