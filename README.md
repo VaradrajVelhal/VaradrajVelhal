@@ -75,6 +75,15 @@ React.js (Vite) · Tailwind CSS · Bootstrap — responsive, role-aware UIs
 
 <br/>
 
+<div align="center">
+
+<!-- Changes on every single page load — a real dynamic element, not a one-time animation -->
+<img src="https://github-readme-quotes.herokuapp.com/quote?theme=tokyonight&border=true&type=horizontal&animation=true" />
+
+</div>
+
+<br/>
+
 ## 🚀 Featured Builds
 
 <table>
@@ -131,6 +140,9 @@ Rule-driven engine for 20+ government schemes — zero hardcoded logic. Indexed 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=VaradrajVelhal&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=1DE9B6&line=1DE9B6&point=ffffff&area=true" />
 
 <img src="https://github-profile-trophy.vercel.app/?username=VaradrajVelhal&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8" />
+
+<!-- Live 3D isometric contribution calendar — regenerates from your real commit data on every load -->
+<img width="80%" src="https://metrics.lecoq.io/VaradrajVelhal?template=classic&base.header=0&base.metadata=0&isocalendar=1&isocalendar.duration=full-year" />
 </div>
 
 <br/>
