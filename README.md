@@ -1,178 +1,172 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:1DE9B6&height=200&section=header&text=Varadraj%20Velhal&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend-Focused%20Full%20Stack%20Developer&descAlignY=58&descSize=18" />
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/VaradrajVelhal">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Developer;Full+Stack+Developer;Software+Engineer;Django+%2B+React+%2B+Docker;Building+Secure%2C+Scalable+APIs;AI-Integrated+Web+Apps;MCA+Student+%40+PCCOE+Pune&font=Fira+Code&center=true&width=560&height=45&color=1DE9B6&vCenter=true&size=22&pause=1500" />
-  </a>
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=VARADRAJ%20VELHAL&fontSize=46&fontColor=1DE9B6&animation=twinkling&fontAlignY=40&desc=Backend-Focused%20Full%20Stack%20Developer%20%7C%20Building%20AI-Powered%20Web%20Systems&descAlignY=58&descAlign=50&descColor=8892b0" />
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/varadrajvelhal" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:varadrajvelhal@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/VaradrajVelhal" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+<a href="https://github.com/VaradrajVelhal">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=%3E+whoami+-%3E+Backend+Developer;%3E+status+-%3E+Building+scalable+REST+APIs;%3E+stack+-%3E+Django+%2B+React+%2B+Docker;%3E+exploring+-%3E+OpenAI+%26+Gemini+API;%3E+CET+2025+-%3E+99.58+percentile;%3E+mode+-%3E+Always+Shipping+_&font=Fira+Code&center=true&width=650&height=50&color=1DE9B6&background=00000000&vCenter=true&size=20&pause=1400" />
+</a>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=VaradrajVelhal&label=Profile%20Views&color=1DE9B6&style=flat" />
-</p>
+<br/>
 
----
+<a href="https://www.linkedin.com/in/varadrajvelhal" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:varadrajvelhal@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/VaradrajVelhal" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
-### 🚀 About Me
+<img src="https://komarev.com/ghpvc/?username=VaradrajVelhal&label=Profile%20Views&color=1DE9B6&style=for-the-badge" />
 
-MCA student (**CGPA 8.9**, **99.58 percentile in MAH MCA CET 2025**) with hands-on experience designing, building, and deploying **three production-ready full-stack web applications** using Python, Django REST Framework, PostgreSQL, React.js, and Docker.
+</div>
 
-- 💼 I design **secure, scalable, well-tested backend systems** with Django REST Framework
-- 🐳 I containerize and deploy apps with **Docker, Docker Compose, and Gunicorn**
-- 🔐 I build **JWT authentication, RBAC, and custom user models** into every project
-- 🤖 I integrate **AI capabilities (OpenAI API, Gemini API)** into full-stack applications
-- 🧪 I write **integration & unit tests** (Django TestCase, DRF APIClient) covering auth, validation, and business workflows
-- ⚡ I optimize databases — indexing, query optimization, and N+1 prevention with `select_related` / `prefetch_related`
-- 🏆 **99.58 percentile** in MAH MCA CET 2025 — Top 0.5% statewide in Maharashtra
+<br/>
+
+```yaml
+role: MCA Student @ Pimpri Chinchwad College of Engineering, Pune
+focus: Secure, scalable, well-tested full-stack systems
+built: 3 production-ready apps — Django REST Framework · React · PostgreSQL · Docker
+seeking: Backend Developer / Full-Stack Developer / Software Engineer role
+fun_fact: 200+ DSA problems solved on LeetCode | 5⭐ Gold Badge in Java on HackerRank
+```
+
+<br/>
+
+## 🧠 What I Do
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**⚙️ Backend Engineering**
+Django REST Framework · JWT Auth · RBAC · Custom User Models · Serializers · Middleware · MVC
+
+**🤖 AI Integration**
+OpenAI API · Gemini API — embedding AI features into full-stack apps
+
+**🗄️ Databases**
+PostgreSQL schema design · Indexing · Query optimization · N+1 prevention
+
+</td>
+<td width="50%" valign="top">
+
+**🐳 DevOps**
+Docker · Docker Compose · Gunicorn — production-style containerized deploys
+
+**🧪 Testing**
+Django TestCase · DRF APIClient · Postman — auth, validation & workflow coverage
+
+**🎨 Frontend**
+React.js (Vite) · Tailwind CSS · Bootstrap — responsive, role-aware UIs
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🧰 Tech Arsenal
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,java,django,postgres,react,vite,docker,html,css,tailwind,bootstrap,git,github,vercel,render,postman,vscode&perline=9" />
+<br/><br/>
+<img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+<img src="https://img.shields.io/badge/JWT_Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+<img src="https://img.shields.io/badge/DRF-A30000?style=for-the-badge&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/Gunicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white" />
+</div>
+
+<br/>
+
+## 🚀 Featured Builds
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🩸 LifeLink
+**Real-time blood request coordination**
+
+`React (Vite)` `DRF` `PostgreSQL` `Docker`
+
+Role-based dashboards for hospitals & donors. Concurrency-safe acceptance via `transaction.atomic` + `select_for_update`. N+1-free ORM calls. Full integration test suite + structured logging.
+
+🔗 [lifelink44.vercel.app](https://lifelink44.vercel.app)
+
+</td>
+<td width="33%" valign="top">
+
+### 💼 HireFlow
+**Job tracking & application manager**
+
+`React` `DRF` `JWT` `Docker`
+
+Tracks applications through applied → interview → offer → rejected. Cron-based job fetching + email reminders cut manual tracking effort by **60%**.
+
+🔗 [hiref-low.vercel.app](https://hiref-low.vercel.app)
+
+</td>
+<td width="33%" valign="top">
+
+### 🏛️ Scheme Engine
+**Govt. eligibility checker**
+
+`Django` `ReportLab` `Chart.js` `Docker`
+
+Rule-driven engine for 20+ government schemes — zero hardcoded logic. Indexed multi-condition eligibility checks + live PDF/Chart.js reporting.
+
+🔗 [rural-scheme-eligibility-check.onrender.com](https://rural-scheme-eligibility-check.onrender.com)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 📊 The Numbers
+
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=VaradrajVelhal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1DE9B6&icon_color=1DE9B6&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaradrajVelhal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1DE9B6" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=VaradrajVelhal&theme=tokyonight&hide_border=true&background=0D1117&ring=1DE9B6&fire=1DE9B6&currStreakLabel=1DE9B6" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VaradrajVelhal&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=1DE9B6&line=1DE9B6&point=ffffff&area=true" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=VaradrajVelhal&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8" />
+</div>
+
+<br/>
+
+## 🎓 Education & Credentials
+
+| | |
+|---|---|
+| 🎓 **MCA** | Pimpri Chinchwad College of Engineering, Pune · 2025–Present · CGPA **8.9/10** |
+| 🎓 **B.Com (IT)** | Sadguru Gadage Maharaj College, Karad · 2022–2025 · CGPA **8.89/10** |
+| 📜 **Certification** | Generative AI for Everyone — Coursera (2025) |
+| 📜 **Certification** | AI Fundamentals — GUVI (2025) |
+
+<br/>
+
+## 🏆 Milestones
+
+- 🎯 **99.58 percentile** in MAH MCA CET 2025 — Top 0.5% statewide in Maharashtra
 - 🥇 **5-Star Gold Badge in Java** on HackerRank
-- 🧩 Solved **200+ DSA problems** on LeetCode
-- 📫 Reach me at **varadrajvelhal@gmail.com**
+- 🧩 **200+ DSA problems** solved on LeetCode
+- ☁️ **3 projects** deployed live across Vercel & Render with Docker-based production setups
 
----
+<br/>
 
-### 🛠️ Tech Stack
+<div align="center">
 
-**Languages**
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
-</p>
+*"Building things that don't just work — but scale, stay secure, and stay tested."*
 
-**Backend**
-<p>
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/DRF-A30000?style=flat-square&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT_Auth-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/RBAC-4B32C3?style=flat-square&logo=auth0&logoColor=white" />
-  <img src="https://img.shields.io/badge/RESTful_APIs-02569B?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/MVC_Architecture-6E4C13?style=flat-square" />
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" />
 
-**AI / LLM Integration**
-<p>
-  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
-</p>
-
-**Frontend**
-<p>
-  <img src="https://img.shields.io/badge/React_(Vite)-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-</p>
-
-**Databases**
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Query_Optimization-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Indexing-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-</p>
-
-**DevOps & Testing**
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gunicorn-499848?style=flat-square&logo=gunicorn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django_TestCase-092E20?style=flat-square&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/DRF_APIClient-A30000?style=flat-square&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white" />
-</p>
-
----
-
-### 📌 Featured Projects
-
-#### 🩸 [LifeLink — Real-Time Blood Request Coordination System](https://lifelink44.vercel.app)
-`React.js (Vite)` `Django REST Framework` `PostgreSQL` `JWT` `RBAC` `Docker` `Gunicorn`
-- Engineered a full-stack platform with role-based dashboards for hospitals and donors, streamlining the blood request lifecycle end-to-end (create → accept → complete).
-- Implemented concurrency-safe request acceptance using `transaction.atomic` and `select_for_update`, preventing duplicate acceptances under concurrent load.
-- Reduced redundant database queries with `select_related` / `prefetch_related` across ORM calls, eliminating N+1 query patterns in nested API responses.
-- Containerized backend and frontend with Docker and Docker Compose, configuring Gunicorn for production-style deployment.
-- Built integration test suites (Django TestCase, DRF APIClient) covering authentication, authorization, validation, and core business workflows, with structured logging for auth/business events.
-
-#### 💼 [HireFlow — Job Tracking & Application Management Platform](https://hiref-low.vercel.app)
-`React.js` `Django REST Framework` `PostgreSQL` `JWT` `Docker` `Gunicorn`
-- Built a full-stack job tracking platform managing the application lifecycle (application → interview → offer → rejection) with a responsive UI.
-- Developed secure RESTful APIs with JWT authentication and enforced user-specific data isolation.
-- Automated job fetching and email reminders via cron jobs, cutting manual tracking effort by **60%**.
-- Deployed backend and frontend using Docker, Docker Compose, and Gunicorn for reproducible environments.
-
-#### 🏛️ [Rural Government Scheme Eligibility Engine](https://rural-scheme-eligibility-check.onrender.com)
-`Django` `PostgreSQL` `Bootstrap` `ReportLab` `Chart.js` `Docker` `Gunicorn`
-- Designed a dynamic, database-driven eligibility engine supporting **20+ government schemes** with configurable rules — new schemes can be added without code changes.
-- Optimized the relational schema for multi-condition eligibility checks (income, age, caste) using indexed queries for faster lookups.
-- Implemented PDF report generation with ReportLab and interactive Chart.js dashboards for real-time eligibility outcomes.
-- Packaged and deployed with Docker, Docker Compose, and Gunicorn for production-style hosting.
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=VaradrajVelhal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaradrajVelhal&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VaradrajVelhal&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-### 🎓 Education
-
-**Master of Computer Applications (MCA)** — Pimpri Chinchwad College of Engineering, Pune *(2025 – Present)* — CGPA: 8.9/10
-**Bachelor of Commerce (Information Technology)** — Sadguru Gadage Maharaj College, Karad *(2022 – 2025)* — CGPA: 8.89/10
-
----
-
-### 📜 Certifications
-
-- 🎓 Generative AI for Everyone — Coursera (2025)
-- 🎓 AI Fundamentals — GUVI (2025)
-
----
-
-### 🏆 Achievements
-
-- Secured a **99.58 percentile** in MAH MCA CET 2025 — top 0.5% statewide among all applicants
-- Achieved a **5-Star Gold Badge in Java** on HackerRank, reflecting strong OOP and algorithmic problem-solving skills
-- Solved **200+ DSA problems** on LeetCode, focused on arrays, strings, linked lists, and core data structures
-- Deployed **all three projects** on cloud platforms (Vercel, Render) with live production URLs
-
----
-
-<p align="center">
-  ⭐ This profile reflects my journey toward becoming a strong backend engineer — one real-world project at a time.
-</p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1DE9B6,100:0077B5&height=120&section=footer" />
+</div>
 
 <!--
-  🐍 Contribution snake (optional, needs a one-time GitHub Action setup):
-  1. In your VaradrajVelhal/VaradrajVelhal repo, add .github/workflows/snake.yml using
-     https://github.com/Platane/snk — it generates a snake game animation from your
-     contribution graph and commits it as an SVG.
-  2. Once generated, uncomment the line below and point it at the generated SVG URL.
+  🐍 Optional — Contribution Snake Animation:
+  Add .github/workflows/snake.yml (see https://github.com/Platane/snk) in this repo,
+  then uncomment below and point it at the generated SVG once the Action has run once.
 
   <p align="center">
     <img src="https://raw.githubusercontent.com/VaradrajVelhal/VaradrajVelhal/output/github-contribution-grid-snake-dark.svg" />
