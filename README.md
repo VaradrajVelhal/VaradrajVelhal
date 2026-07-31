@@ -1,5 +1,10 @@
-<h1 align="center">Hi 👋, I'm Varadraj Velhal</h1>
-<h3 align="center">Backend-Focused Full Stack Developer | MCA Student @ PCCOE, Pune</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:1DE9B6&height=200&section=header&text=Varadraj%20Velhal&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend-Focused%20Full%20Stack%20Developer&descAlignY=58&descSize=18" />
+
+<p align="center">
+  <a href="https://github.com/VaradrajVelhal">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Developer;Full+Stack+Developer;Django+%2B+React+Enthusiast;Building+Scalable+REST+APIs;MCA+Student+%40+PCCOE+Pune&font=Fira+Code&center=true&width=520&height=45&color=1DE9B6&vCenter=true&size=22&pause=1500" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/varadrajvelhal" target="_blank">
@@ -11,6 +16,10 @@
   <a href="https://github.com/VaradrajVelhal" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=VaradrajVelhal&label=Profile%20Views&color=1DE9B6&style=flat" />
 </p>
 
 ---
@@ -114,3 +123,17 @@
 <p align="center">
   ⭐ This profile reflects my journey toward becoming a strong backend engineer — one real-world project at a time.
 </p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1DE9B6,100:0077B5&height=120&section=footer" />
+
+<!--
+  🐍 Contribution snake (optional, needs a one-time GitHub Action setup):
+  1. In your VaradrajVelhal/VaradrajVelhal repo, add .github/workflows/snake.yml using
+     https://github.com/Platane/snk — it generates a snake game animation from your
+     contribution graph and commits it as an SVG.
+  2. Once generated, uncomment the line below and point it at the generated SVG URL.
+
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/VaradrajVelhal/VaradrajVelhal/output/github-contribution-grid-snake-dark.svg" />
+  </p>
+-->
